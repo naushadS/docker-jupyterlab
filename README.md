@@ -1,5 +1,8 @@
-# docker-jupyterlab
-
+docker-jupyterlab  
+[![](https://images.microbadger.com/badges/version/naushads/jupyterlab.svg)](https://microbadger.com/images/naushads/jupyterlab "Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/naushads/jupyterlab.svg)](https://microbadger.com/images/naushads/jupyterlab "Get your own image badge on microbadger.com")
+===
+[Published on Docker Hub](https://hub.docker.com/r/naushads/jupyterlab/)
 ### Overview
 
 * This docker image is built upon [datascience-notebook](https://hub.docker.com/r/jupyter/datascience-notebook/). Read more about it [here](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html#jupyter-datascience-notebook)
